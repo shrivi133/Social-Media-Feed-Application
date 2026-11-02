@@ -1,0 +1,4 @@
+mkdir social-media-app
+cd social-media-app
+git init
+mkdir server client

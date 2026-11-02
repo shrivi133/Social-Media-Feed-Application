@@ -1,4 +1,4 @@
-# 📱 Real-Time Social Media Feed Application
+# 📱 Social Media Feed Application
 
 A dynamic social media application with real-time feed updates, likes, and comment threads[cite: 1].
 
